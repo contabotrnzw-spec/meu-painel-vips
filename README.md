@@ -1,1 +1,1 @@
-# meu-painel-vips
+public/index.html
